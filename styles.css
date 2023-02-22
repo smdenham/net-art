@@ -1,0 +1,45 @@
+body{
+    background-color: aliceblue;
+}
+#home{
+    background-image:url("media/pixiehollow_map.jpg");
+    background-size:cover
+}
+h2{
+    background-size: contain;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+video{
+    justify-content: center;
+}
+img{
+    margin: 5%;
+    margin-bottom: 2%;
+}
+a{
+    font-size:xx-large;
+    text-decoration: none;
+    color: bisque;
+}
+.left{
+    color: bisque;
+    font-size:xx-large;
+    padding-top: 30%;
+    padding-left: 20%;
+    float: left;
+    text-decoration-color: rosybrown;
+}
+.right{
+    font-size: xx-large;
+    float: right;
+    padding-top: 30%;
+    padding-right: 20%;
+}
+.link{
+    padding-left: 0;
+    margin-left: o;
+}
